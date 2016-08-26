@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jnwaletzko/github_to_slack.git
-  revision: 8a898c755437d1c626286049929492171cf7ae1a
+  revision: 24c54aacc540dcf478ee36ea9054f26b446ff91b
   branch: add_slacker
   specs:
     github_to_slack (0.1.2)
