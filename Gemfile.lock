@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/jnwaletzko/github_to_slack.git
-  revision: 1ab664322c4e3c66ed55a3f8f17a8268163d0d25
+  revision: 018764fce772a8612f108db3e29bd46531eeef18
   branch: add_slacker
   specs:
-    github_to_slack (0.1.2)
+    github_to_slack (0.1.3)
       rails (~> 4.2)
       slack-notifier
 
