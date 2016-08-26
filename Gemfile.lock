@@ -1,9 +1,10 @@
 GIT
   remote: https://github.com/jnwaletzko/github_to_slack.git
-  revision: f0454bb9fb5630c2cdf0728256de27543844458d
+  revision: 43a724c520eff06ea25040faa10cb83800f27812
+  branch: add_slack_model
   specs:
     github_to_slack (0.1.2)
-      rails (>= 4.2.5)
+      rails (~> 4.2)
       slack-notifier
 
 GEM

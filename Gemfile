@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'github_to_slack', git: 'https://github.com/jnwaletzko/github_to_slack.git'
+gem 'github_to_slack', git: 'https://github.com/jnwaletzko/github_to_slack.git', branch: "add_slack_model"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
