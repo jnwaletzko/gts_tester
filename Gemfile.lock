@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/jnwaletzko/github_to_slack.git
-  revision: b8e7285b87f4634d8249948f43e56227a6099606
-  branch: add_slack_model
+  revision: 68ee2bd9f04683a22e234cd0caf4e47ceafb9141
+  branch: add_slacker
   specs:
     github_to_slack (0.1.2)
       rails (~> 4.2)
